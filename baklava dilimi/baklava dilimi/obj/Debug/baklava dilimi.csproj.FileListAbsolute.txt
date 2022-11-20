@@ -1,0 +1,7 @@
+D:\C#\baklava dilimi\baklava dilimi\bin\Debug\baklava dilimi.exe.config
+D:\C#\baklava dilimi\baklava dilimi\bin\Debug\baklava dilimi.exe
+D:\C#\baklava dilimi\baklava dilimi\bin\Debug\baklava dilimi.pdb
+D:\C#\baklava dilimi\baklava dilimi\obj\Debug\baklava dilimi.csprojAssemblyReference.cache
+D:\C#\baklava dilimi\baklava dilimi\obj\Debug\baklava dilimi.csproj.CoreCompileInputs.cache
+D:\C#\baklava dilimi\baklava dilimi\obj\Debug\baklava dilimi.exe
+D:\C#\baklava dilimi\baklava dilimi\obj\Debug\baklava dilimi.pdb
